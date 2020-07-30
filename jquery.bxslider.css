@@ -20,7 +20,6 @@
 }
 ul.bxslider {
   list-style: none;
-  opacity: 0;
 }
 .bx-viewport {
   /*fix other elements on the page moving (on Chrome)*/
