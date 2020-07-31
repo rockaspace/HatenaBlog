@@ -92,10 +92,12 @@ ul.bxslider {
 .bx-wrapper .bx-prev {
   left: 10px;
   background: url('images/controls.png') no-repeat 0 -32px;
+  opacity: 0.1;
 }
 .bx-wrapper .bx-prev:hover,
 .bx-wrapper .bx-prev:focus {
-  background-position: 0 0;
+  /* background-position: 0 0; */
+  opacity: 1;
 }
 .bx-wrapper .bx-next {
   right: 10px;
