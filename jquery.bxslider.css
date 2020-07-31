@@ -103,7 +103,8 @@ ul.bxslider {
 }
 .bx-wrapper .bx-next:hover,
 .bx-wrapper .bx-next:focus {
-  background-position: -43px 0;
+  background-position: 0 0;
+  opacity:0.1;
 }
 .bx-wrapper .bx-controls-direction a {
   position: absolute;
